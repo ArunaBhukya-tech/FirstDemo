@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\Employee\Employee.BO\bin\Debug\Employee.BO.dll
+C:\Users\Dell\source\repos\Employee\Employee.BO\bin\Debug\Employee.BO.pdb
+C:\Users\Dell\source\repos\Employee\Employee.BO\bin\Debug\Employee.DB.dll
+C:\Users\Dell\source\repos\Employee\Employee.BO\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\Employee\Employee.BO\bin\Debug\Employee.DB.pdb
+C:\Users\Dell\source\repos\Employee\Employee.BO\bin\Debug\Employee.DB.dll.config
+C:\Users\Dell\source\repos\Employee\Employee.BO\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\Employee\Employee.BO\obj\Debug\EmployeeBO.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Employee\Employee.BO\obj\Debug\EmployeeBO.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Employee\Employee.BO\obj\Debug\EmployeeBO.csproj.CopyComplete
+C:\Users\Dell\source\repos\Employee\Employee.BO\obj\Debug\Employee.BO.dll
+C:\Users\Dell\source\repos\Employee\Employee.BO\obj\Debug\Employee.BO.pdb

@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\Employee\Employee.DB\bin\Debug\Employee.DB.dll.config
+C:\Users\Dell\source\repos\Employee\Employee.DB\bin\Debug\Employee.DB.dll
+C:\Users\Dell\source\repos\Employee\Employee.DB\bin\Debug\Employee.DB.pdb
+C:\Users\Dell\source\repos\Employee\Employee.DB\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\Employee\Employee.DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\Employee\Employee.DB\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\Employee\Employee.DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\Employee\Employee.DB\obj\Debug\Employee.DB.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Employee\Employee.DB\obj\Debug\Employee.DB.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Employee\Employee.DB\obj\Debug\Employee.DB.csproj.CopyComplete
+C:\Users\Dell\source\repos\Employee\Employee.DB\obj\Debug\Employee.DB.dll
+C:\Users\Dell\source\repos\Employee\Employee.DB\obj\Debug\Employee.DB.pdb

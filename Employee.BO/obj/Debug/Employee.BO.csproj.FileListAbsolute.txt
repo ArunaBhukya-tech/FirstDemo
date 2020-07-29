@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Employee\Employee.BO\bin\Debug\Employee.BO.dll
+C:\Users\Dell\source\repos\Employee\Employee.BO\bin\Debug\Employee.BO.pdb
+C:\Users\Dell\source\repos\Employee\Employee.BO\obj\Debug\Employee.BO.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Employee\Employee.BO\obj\Debug\Employee.BO.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Employee\Employee.BO\obj\Debug\Employee.BO.dll
+C:\Users\Dell\source\repos\Employee\Employee.BO\obj\Debug\Employee.BO.pdb
